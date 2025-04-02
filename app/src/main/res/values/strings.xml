@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="request_problem">request_problem</string>
+    <string name="connection_failed">connection_failed</string>
+    <string name="response_problem">response_problem</string>
+</resources>
